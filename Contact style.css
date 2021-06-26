@@ -82,6 +82,7 @@
     font-size: x-large;
     font-weight: bold;
     color:gold;
+    display: inline;
   
 }
 #link2 {
@@ -89,9 +90,18 @@
     font-size: x-large;
     font-weight: bold;
     color:gold;
+    display: inline;
  
 
   
+}
+
+#p1{margin-left: 18px;
+    display: inline;
+}
+
+#p2{margin-left: 18px;
+    display:inline;
 }
 
 
